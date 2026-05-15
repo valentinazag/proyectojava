@@ -30,7 +30,7 @@ Main features include:
 - Handling custom exceptions
 - Controlling insufficient stock situations
 
-# 🏗 Project Structure
+# Project Structure
 
 ```plaintext
 src/
